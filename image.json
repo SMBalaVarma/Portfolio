@@ -1,0 +1,7 @@
+{
+    "images": [
+        { "name": "texture1", "path": "path/to/your/texture1.jpg" },
+        { "name": "texture2", "path": "path/to/your/texture2.jpg" },
+        { "name": "texture3", "path": "path/to/your/texture3.jpg" }
+    ]
+}
